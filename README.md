@@ -5,7 +5,7 @@ Compress and decompress SZS files with the Yaz0 compression
 The problem is that [Wiimms SZS Tool](https://szs.wiimm.de/wszst/) (of which I did not make nor is it mine) is for Linux and Mac. It supports Windows, only with Cygwin. SZS Tool (this one) doesn't need Cygwin.
 
 ## Yaz0?
-Yaz0, like most archives, is a compression used by Nintendo in their games from the GameCube to the 3DS.
+Yaz0 is a compression used by Nintendo in their games from the GameCube to the 3DS. You can read more about the Yaz0 compression on the [Custom Mario Kart Wiki](http://wiki.tockdom.com/wiki/Yaz0).
 
 ## Compressing
 - To compress, put all the files you wish to compress into a `.zip` file. This makes SZS Tool's job easier.
