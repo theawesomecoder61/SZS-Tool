@@ -1,18 +1,21 @@
 # SZS-Tool
 Compress and decompress SZS files with the Yaz0 compression
 
-## Purpose
-Say you want to do some modifications to the ROM of a 3DS game. You have the `.szs` files and you want to extract its contents to modify them. You would use SZS Tool.
-
 ### What about Wiimms SZS Tool?
 The problem is that [Wiimms SZS Tool](https://szs.wiimm.de/wszst/) (of which I did not make nor is it mine) is for Linux and Mac. It supports Windows, only with Cygwin. SZS Tool (this one) doesn't need Cygwin.
 
+## Yaz0?
+Yaz0, like most archives, is a compression used by Nintendo in their games from the GameCube to the 3DS.
+
 ## Compressing
 - To compress, put all the files you wish to compress into a `.zip` file. This makes SZS Tool's job easier.
-- Select the `.zip`
+- Select the `.zip` file
 
 ## Decompressing
 - To decompress, select a `.szs` file
+
+## Downloads
+Go to the [Release pages](https://github.com/theawesomecoder61/SZS-Tool/releases).
 
 ## Building
 1. Ensure you have .NET Framework 4.5
