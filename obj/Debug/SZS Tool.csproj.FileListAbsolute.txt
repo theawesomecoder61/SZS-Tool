@@ -1,0 +1,16 @@
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\SZS Tool.exe.config
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\SZS Tool.exe
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\SZS Tool.pdb
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\3DS.dll
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\CommonCompressors.dll
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\CommonFiles.dll
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\DotNetZip.dll
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\LibEveryFileExplorer.dll
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\NDS.dll
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\bin\Debug\DotNetZip.xml
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\obj\Debug\SZS Tool.csprojResolveAssemblyReference.cache
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\obj\Debug\SZS_Tool.Form1.resources
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\obj\Debug\SZS_Tool.Properties.Resources.resources
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\obj\Debug\SZS Tool.csproj.GenerateResource.Cache
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\obj\Debug\SZS Tool.exe
+c:\users\andrew\documents\visual studio 2012\Projects\SZS Tool\SZS Tool\obj\Debug\SZS Tool.pdb
