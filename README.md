@@ -25,3 +25,5 @@ The problem is that [Wiimms SZS Tool](https://szs.wiimm.de/wszst/) (of which I d
 
 ## Yaz0?
 Yaz0 is a compression used by Nintendo in their games from the GameCube to the 3DS. You can read more about the Yaz0 compression on the [Custom Mario Kart Wiki](http://wiki.tockdom.com/wiki/Yaz0).
+
+To see if a `.szs` file is compatible with SZS Tool, make sure the first 4 bytes in the file match `59 61 7A 30` or in ASCII `Yaz0`.
