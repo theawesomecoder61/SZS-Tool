@@ -4,6 +4,12 @@ Compress and decompress SZS files with the Yaz0 compression
 ## Compatibility
 **FOR USE WITH NINTENDO 3DS GAMES ONLY**. The `.szs` files from a Wii game **will not work**.
 
+## Future plans
+- Add support for the following compressions:
+  - SARC (Wii)
+  - U8 (Wii U)
+- Detect what compression a file uses and if it's valid
+
 ## Compressing
 - To compress, put all the files you wish to compress into a `.zip` file. This makes SZS Tool's job easier.
 - Select the `.zip` file
