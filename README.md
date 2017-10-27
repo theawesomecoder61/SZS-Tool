@@ -6,9 +6,13 @@ Compress and decompress SZS files with the Yaz0 compression
 
 ## Future plans
 - Add support for the following compressions:
+  - NARC (3DS)
   - SARC (Wii)
   - U8 (Wii U)
 - Detect what compression a file uses and if it's valid
+- Add support for `.arc`, `.sarc`, `.narc`
+- Rename "SZS Tool" to "Nintendo Archive Tool"
+- Clean up UI & code
 
 ## Compressing
 - To compress, put all the files you wish to compress into a `.zip` file. This makes SZS Tool's job easier.
