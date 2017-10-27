@@ -5,13 +5,18 @@ Compress and decompress SZS files with the Yaz0 compression
 **FOR USE WITH NINTENDO 3DS GAMES ONLY**. The `.szs` files from a Wii game **will not work**.
 
 ## Future plans
-- Add support for the following compressions:
+- Add support for the following compressions (and an example of a game that uses that compression):
   - NARC (3DS)
+    - Super Mario 3D Land
+  - RARC (GameCube, Wii)
+    - Super Mario Galaxy
   - SARC (Wii)
+    - New Super Mario Bros. Wii
   - U8 (Wii U)
+    - Mario Kart 8
 - Detect what compression a file uses and if it's valid
-- Add support for `.arc`, `.sarc`, `.narc`
-- Rename "SZS Tool" to "Nintendo Archive Tool"
+- Add support for `.arc`, `.carc`, `.narc` and `.sarc`
+- Rename the project to "Nintendo Archive Tool"
 - Clean up UI & code
 
 ## Compressing
@@ -19,7 +24,8 @@ Compress and decompress SZS files with the Yaz0 compression
 - Select the `.zip` file
 
 ## Decompressing
-- To decompress, select a `.szs` file
+- To decompress, select a supported file
+- Next, choose a folder to export to
 
 ## Downloads
 Go to the [Release pages](https://github.com/theawesomecoder61/SZS-Tool/releases).
@@ -31,9 +37,4 @@ Go to the [Release pages](https://github.com/theawesomecoder61/SZS-Tool/releases
 
 ## FAQ
 ### What about Wiimms SZS Tool?
-The problem is that [Wiimms SZS Tool](https://szs.wiimm.de/wszst/) (of which I did not make nor is it mine) is for Linux and Mac. It supports Windows, only with Cygwin. SZS Tool (this one) doesn't need Cygwin. Plus, Wiimms SZS Tool only works with `.szs` from Wii games, not 3DS games.
-
-## Yaz0?
-Yaz0 is a compression used by Nintendo in their games from the GameCube to the 3DS. You can read more about the Yaz0 compression on the [Custom Mario Kart Wiki](http://wiki.tockdom.com/wiki/Yaz0).
-
-To see if a `.szs` file is compatible with SZS Tool, make sure the first 4 bytes in the file match `59 61 7A 30` or in ASCII `Yaz0`.
+The problem is that [Wiimms SZS Tool](https://szs.wiimm.de/wszst/) (of which I did not make nor is it mine) is for Linux and Mac. It supports Windows, only with Cygwin. SZS Tool (this one) doesn't need Cygwin. Plus, Wiimms SZS Tool only works with `.szs` from Wii games, not GameCube, 3DS and Wii U games as this SZS Tool supports.
